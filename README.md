@@ -1,4 +1,7 @@
 # imgs-to-pdf
+[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+
+
 Put images in a folder and this will compile them and make a PDF
 # How To Setup
 Choose the images you want to and put them in the same folder as the .EXE(executable) or the .PY(Python file). The dependencies while running python script will need to be installed manually(if not installed already)
